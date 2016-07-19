@@ -11,6 +11,7 @@ namespace merge1
         static void Main(string[] args)
         {
             Console.WriteLine("add_1");
+            Console.WriteLine("master_add_1");
         }
     }
 }
