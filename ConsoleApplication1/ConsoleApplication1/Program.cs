@@ -12,6 +12,7 @@ namespace merge1
         {
             Console.WriteLine("add_1");
             Console.WriteLine("wlau_add_1");
+            Console.WriteLine("wlau_add_2");
         }
     }
 }
