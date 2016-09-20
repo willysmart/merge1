@@ -10,12 +10,7 @@ namespace merge1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("add_1");
-            Console.WriteLine("master_add_1");
-            Console.WriteLine("wlau_add_1");
-            Console.WriteLine("wlau_add_2");
-            Console.WriteLine("wlau_add_3");
-            Console.WriteLine("master_add_2");
+
         }
     }
 }
