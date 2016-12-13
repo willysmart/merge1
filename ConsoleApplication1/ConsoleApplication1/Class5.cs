@@ -9,5 +9,6 @@ namespace ConsoleApplication1
     class Class5
     {
         //1
+        //2
     }
 }
